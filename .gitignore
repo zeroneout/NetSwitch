@@ -1,0 +1,26 @@
+# 编译中间产物
+*.o
+*.res.o
+*.obj
+*.exp
+*.lib
+*.ilk
+*.pdb
+
+# 临时目录
+tmp/
+build/
+out/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*~
+
+# 系统
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 注意：NetSwitch.exe 是发布产物，特意纳入版本管理，不要忽略
